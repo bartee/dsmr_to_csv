@@ -1,9 +1,11 @@
 backcall==0.2.0
+black==20.8b1
 decorator==4.4.2
 dsmr-parser==0.21
 ipdb==0.13.3
 ipython==7.17.0
 ipython-genutils==0.2.0
+influxdb==5.3.0
 jedi==0.17.2
 parso==0.7.1
 pexpect==4.8.0
